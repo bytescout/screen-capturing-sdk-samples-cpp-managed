@@ -1,0 +1,10 @@
+## Index of source code examples
+
+
+\Capture and Add Time Stamp
+\Capture From Entire Screen
+\Capture From Given Region
+\Capture From Given Window
+\Capture Region Around Mouse
+\Capture With Webcamera Overlay
+\WEBM output - Capture From Entire Screen
