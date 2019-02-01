@@ -1,9 +1,9 @@
 ## Index of source code examples:
 
-\Capture video From Entire Screen as WEBM
-\Record screen video and Add Time Stamp
-\Record screen video From Entire Screen
-\Record screen video From Given Region
-\Record screen video From Given Window
-\record screen video from Region Around Mouse
-\record screen video With Webcamera Overlay
+\Capture Video From Entire Screen as WEBM
+\Record Screen Video and Add Time Stamp
+\Record Screen Video From Entire Screen
+\Record Screen Video From Given Region
+\Record Screen Video From Given Window
+\Record Screen Video from Region Around Mouse
+\Record Screen Video With Webcamera Overlay
